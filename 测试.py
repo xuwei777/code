@@ -12,3 +12,4 @@ fjtp1 = pygame.image.load("app.ico")
 #将图片对象设置为窗口图标
 pygame.display.set_icon(fjtp1)
 input()
+#
