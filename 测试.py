@@ -13,3 +13,4 @@ fjtp1 = pygame.image.load("app.ico")
 pygame.display.set_icon(fjtp1)
 input()
 #
+#
